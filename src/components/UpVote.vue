@@ -20,7 +20,7 @@
 
 
 
-import Vuex, {mapState } from 'vuex';
+import Vuex from 'vuex';
 
 const store = new Vuex.Store({
   state: {
